@@ -1,0 +1,11 @@
+{
+    "attributes":[{
+      "color" : "Blue",
+      "value" : "ABC"
+    }
+    ]
+    ,
+    "description":"A nft art",
+    "image":"https://gateway.pinata.cloud/ipfs/Qme7Jyd2G7m5qM9yQwMZrt6vBDiYn4u8qMGtnufxUZrQu2",
+    "name":"Art"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "erc721",
+  "version": "1.0.0",
+  "description": "This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tathagata1010/ERC721.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tathagata1010/ERC721/issues"
+  },
+  "homepage": "https://github.com/tathagata1010/ERC721#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "ethers": "^5.7.1",
+    "hardhat": "^2.11.2"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.6",
+    "@openzeppelin/contracts": "^4.7.3",
+    "dotenv": "^16.0.2"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
